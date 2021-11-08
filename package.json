@@ -1,5 +1,5 @@
 {
-  "name": "canoe-solidity",
+  "name": "lando-canoe-solidity",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "test": "mocha",
     "docs": "jsdoc2md index.js | sed 's/^#/##/g'"
   },
-  "homepage": "https://github.com/cryptofinlabs/canoe-solidity",
+  "homepage": "https://github.com/landoyjx/canoe-solidity",
   "author": "dmdque",
   "license": "ISC"
 }

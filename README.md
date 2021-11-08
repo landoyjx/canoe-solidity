@@ -1,4 +1,9 @@
 # 🛶 Canoe Solidity 
+
+From https://github.com/cryptofinlabs/canoe-solidity, only for npm publish.
+
+For that Canoe Solidity not export `decodeFunctionArgs` interface.
+
 Lightweight Javascript library for decoding constructor arguments.
 
 ## Summary
@@ -6,7 +11,7 @@ Canoe works by reading a contract's ABI and decoding the constructor bytecode wi
 
 ## Install
 
-    npm install canoe-solidity
+    npm install lando-canoe-solidity
 
 ## Requirements
 - ABI schema 2.0
